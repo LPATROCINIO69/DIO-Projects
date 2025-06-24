@@ -1,3 +1,6 @@
 [submodule "DIO-Simulador-corrida-mario-kart"]
 	path = DIO-Simulador-corrida-mario-kart
 	url = https://github.com/LPATROCINIO69/DIO-Simulador-corrida-mario-kart.git
+[submodule "03-simulador-corrida-mario"]
+	path = 03-simulador-corrida-mario
+	url = https://github.com/LPATROCINIO69/DIO-Simulador-corrida-mario-kart.git
