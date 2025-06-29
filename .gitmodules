@@ -7,3 +7,6 @@
 [submodule "DIO-shopee-cart"]
 	path = DIO-shopee-cart
 	url = https://github.com/LPATROCINIO69/DIO-shopee-cart.git
+[submodule "projeto-qrcode"]
+	path = projeto-qrcode
+	url = https://github.com/LPATROCINIO69/DIO-Projeto-QRCode.git
