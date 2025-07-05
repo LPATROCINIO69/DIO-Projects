@@ -10,3 +10,6 @@
 [submodule "projeto-qrcode"]
 	path = projeto-qrcode
 	url = https://github.com/LPATROCINIO69/DIO-Projeto-QRCode.git
+[submodule "projeto-app-flow"]
+	path = projeto-app-flow
+	url = https://github.com/LPATROCINIO69/DIO-Project-app-flow.git
