@@ -13,3 +13,6 @@
 [submodule "projeto-app-flow"]
 	path = projeto-app-flow
 	url = https://github.com/LPATROCINIO69/DIO-Project-app-flow.git
+[submodule "projeto-formula-um"]
+	path = projeto-formula-um
+	url = https://github.com/LPATROCINIO69/DIO-Projeto-formula-um.git
