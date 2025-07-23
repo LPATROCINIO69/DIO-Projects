@@ -1,4 +1,4 @@
-# Os primeiros passos utilizando git e githubOs primeiros passos utilizando git e github
+# Os primeiros passos utilizando git e github
 
 ## 📢 Introdução
 
